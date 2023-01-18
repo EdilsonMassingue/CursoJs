@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACA","sources":["webpack://aula93/./src/index.js"],"sourcesContent":["//\r\n//\r\n//\r\nconsole.log(\"Hello World\");\r\n"],"names":[],"sourceRoot":""}
